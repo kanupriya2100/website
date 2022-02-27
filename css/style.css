@@ -1,0 +1,12 @@
+:root {
+    --blue: #51abb2;
+    --purple: #291b25;
+    --yellow: #ffce6d;
+  }
+  .navbar-custom{
+      background-color: var(--blue);
+  }
+  .purple {
+      color: var(--purple);
+  }
+  

@@ -1,0 +1,51 @@
+.navbar-custom{
+    background-color:#51abb2 ;
+}
+.purple {
+    color: #291b25;
+}
+
+/*#fullscreen{
+  background-color:#51abb2 ;
+}
+
+form{
+background-color:#51abb2;
+margin-left: 25%;
+margin-right: auto;
+margin-top: 3%;
+width: 50%;
+padding: 20px;
+justify-content: center;
+align-items: center;
+}
+
+.form-control:focus{
+background-color:red;
+outline: none ;
+}
+
+.btn-lg{
+
+width: 50%;
+margin-left: 25%;
+margin-right: auto;
+
+}*/
+
+#formsize{
+  height: 300px;
+  margin-top: 0%;
+  margin-bottom: auto;
+}
+#design{
+  height: 500px;
+  margin-top: 3%;
+  margin-bottom: auto;
+}
+
+#art{
+  height: 10px;
+  margin-top: 0%;
+  
+}

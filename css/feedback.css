@@ -1,0 +1,39 @@
+.navbar-custom{
+    background-color:#51abb2 ;
+}
+.purple {
+    color: #291b25;
+}
+
+#fullscreen{
+  background-color:#51abb2 ;
+}
+
+form{
+background-color:#51abb2;
+margin-left: 25%;
+margin-right: auto;
+margin-top: 3%;
+width: 50%;
+padding: 20px;
+justify-content: center;
+align-items: center;
+}
+
+.form-control:focus{
+background-color:red;
+outline: none ;
+}
+
+.btn-lg{
+
+width: 50%;
+margin-left: 25%;
+margin-right: auto;
+
+}
+
+.stars{
+    
+    margin-left: 280px;
+}
